@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+.item-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2em;
+  background-color: black;
+}
+.card {
+  text-align: center;
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+  padding: 1em;
+  background-color: pink;
+}
+img {
+  height: 100px;
+  width: auto;
+}
+
+.App {
+  background-color: black;
+}
